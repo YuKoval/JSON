@@ -1,5 +1,5 @@
 {
-	"Computer literacy": true
+	"Computer literacy": true,
 	"Software testing theory": [ "types & methods of testing", "bug report",
 				     "documentstion", "SDLC", "STLS" ],
 	"Tester Tools": [ "Postman", "Fidler", 

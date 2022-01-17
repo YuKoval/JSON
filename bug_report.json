@@ -1,1 +1,12 @@
-
+{   "ID": 1,
+    "Severity": "Major",
+    "Priority": "High",
+    "Environment AND Device": { "Build": "APP_3.0.5_103_QA",
+                            "Devices": [ "iPhone 12/iOS 14.2.1", "iPhone 7 13.1.1", "iPhone 8 Plus 13.3" ] 
+                            }, 
+    "Summery": "The app ignores Bluetooth headphones after the first connection",
+    "Preconditions": [ "Bluetooth headphones are connected", "App is launched" ],
+    "Steps to reproduce": ["Tap on the Learn section", "Tap on any video", "Pay attention to the result" ],
+    "AR": "The app ignores Bluetooth headphones after the first connection",
+    "ER": "Sound is played through headphones"
+}

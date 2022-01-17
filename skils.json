@@ -1,0 +1,12 @@
+{
+	"Computer literacy": true
+	"Software testing theory": [ "types & methods of testing", "bug report",
+				     "documentstion", "SDLC", "STLS" ],
+	"Tester Tools": [ "Postman", "Fidler", 
+			"Dev Tools", "Android Studio", 
+			"XCode", "Charles", 
+			"Jmeter", "Git" ],
+	"Test Automation": true,
+	"Programming language": "Python",
+	"Soft skills": true
+}
